@@ -23,7 +23,7 @@ void setup()
   noTone(BUZZER);
   digitalWrite(RELAY, HIGH);
   Serial.println("Put your card to the reader...");
-  Serial.println();
+  Serial.println();      //for going to next line
 
 }
 void loop() 
