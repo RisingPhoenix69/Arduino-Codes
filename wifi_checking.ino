@@ -3,7 +3,7 @@
 const char* ssid = "SSID";
 const char* password = "password";
 
-#define wled 2
+#define wled 2   //defining led
 
 void setup() {
   // put your setup code here, to run once:
